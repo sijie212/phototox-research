@@ -1,0 +1,135 @@
+smiles,label,name,cas,human,animal,tg432,tg495,tg498,split
+Br.Nc1nc2c(c(=O)[nH]1)NC1C(N2)OC2COP(=O)(O)OC2C1(O)O.O.O,1,Fosdenopterin hydrobromide,2301083-34-9,,PT,PT,,,train
+C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12.Cl,1,Quinine hydrochloride,130-89-2,PT,NPT,PT,PT,,test
+C=Cc1c(C)c2cc3[nH]c(cc4nc(cc5nc(cc1[nH]2)C(C)=C5CCC(=O)O)C(CCC(=O)O)=C4C)c(C)c3C=C,1,Protoporphyrin IX,553-12-8,PT,PT,PT,,PT,train
+C=Cc1c(C)c2cc3[nH]c(cc4nc(cc5nc(cc1[nH]2)C(C)=C5CCC(=O)[O-])C(CCC(=O)[O-])=C4C)c(C)c3C=C.[Na+].[Na+],1,Protoporphyrin IX disodium salt,50865-01-5,PT,PT,PT,,,test
+CC#CC(=O)N1CCC(n2c(=O)n(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1.Cl,0,Tirabrutinib hydrochloride,1439901-97-9,,,NPT,,,train
+CC(=O)NC(Cc1ccc2ccccc2c1)C(=O)NC(Cc1ccc(Cl)cc1)C(=O)NC(Cc1cccnc1)C(=O)NC(CO)C(=O)NC(Cc1ccc(NC(=O)C2CC(=O)NC(=O)N2)cc1)C(=O)NC(Cc1ccc(NC(N)=O)cc1)C(=O)NC(CC(C)C)C(=O)NC(CCCCNC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(N)=O.CC(=O)O,0,Degarelix acetate,934016-19-0,,,NPT,,,val
+CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1.CS(C)=O,1,Trametinib Dimethyl Sulfoxide,1187431-43-1,,PT,PT,,,train
+CC(=O)Oc1ccccc1C(=O)O,0,Aspirin,50-78-2,,,NPT,NPT,,train
+CC(=O)[O-].CCCCCOc1ccc(-c2ccc(-c3ccc(C(=O)NC4CC(O)C(OCC[N+](C)(C)C)NC(=O)C5C(O)C(C)CN5C(=O)C(C(C)O)NC(=O)C(C(O)C(O)c5ccc(O)cc5)NC(=O)C5CC(O)CN5C(=O)C(C(C)O)NC4=O)cc3)cc2)cc1,1,Rezafungin acetate,1631754-41-0,,PT,PT,,,test
+CC(C(=O)O)c1ccc(-c2ccccc2)c(F)c1,0,Esflurbiprofen,51543-39-6,,,NPT,,,train
+CC(C(=O)O)c1ccc(C(=O)c2ccccc2)s1,1,Tiaprofenic acid,33005-95-7,PT,PT,PT,,,train
+CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,1,Ketoprofen,22071-15-4,PT,PT/NPT,PT,PT,,test
+CC(C)(C)CC(C)(C)c1ccc(O)c(-n2nc3ccccc3n2)c1,0,Octrizole,3147-75-9,,,NPT,NPT,,train
+CC(C)(C)c1cc(NC(=O)Nc2ccc(-c3cn4c(n3)sc3cc(OCCN5CCOCC5)ccc34)cc2)no1,0,Quizartinib,950769-58-1,,,NPT,,,train
+CC(C)(C)c1nc(-c2cccc(NS(=O)(=O)c3c(F)cccc3F)c2F)c(-c2ccnc(N)n2)s1.CS(=O)(=O)O,1,Dabrafenib Mesylate,1195768-06-9,,,PT,,,val
+CC(C)N(CCCCOCC(=O)NS(C)(=O)=O)c1cnc(-c2ccccc2)c(-c2ccccc2)n1,1,Selexipag,475086-01-2,mild PT,,PT,,,train
+CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1,1,Fenofibrate,49562-28-9,PT,,PT,PT,,val
+CC(CN1c2ccccc2Sc2ccccc21)N(C)C,1,Promethazine,60-87-7,PT,PT,PT,,PT,train
+CC(CN1c2ccccc2Sc2ccccc21)N(C)C.Cl,1,Promethazine hydrochloride,58-33-3,PT,,PT,,PT,train
+CC(Cn1ccc(-c2ccc(C#N)c(Cl)c2)n1)NC(=O)c1cc(C(C)O)[nH]n1,0,Darolutamide,1297538-32-9,,,NPT,,,train
+CC(c1nc(-c2ccc(C#N)cc2)cs1)C(Cn1cncn1)(OCOP(=O)(O)O)c1ccc(F)cc1F.CCO.NCCCCC(N)C(=O)O,0,Fosravuconazole L-lysine ethanolate,914361-45-8,,,NPT,,,test
+CC1(C)C2CCC1(CS(=O)(=O)O)C(=O)C2=Cc1ccc(C=C2C(=O)C3(CS(=O)(=O)O)CCC2C3(C)C)cc1,0,Ecamsule (Mexoryl SX),92761-26-7,NPT,,NPT,,NPT,val
+CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O,0,Penicillin G,61-33-6,NPT,NPT,NPT,,NPT,train
+CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)[O-].[K+],0,Penicillin G potassium,113-98-4,,,NPT,NPT,,train
+CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)[O-].[Na+],0,Penicillin G sodium salt,69-57-8,NPT,NPT,NPT,NPT,,val
+CC12CCC(C(=Cc3ccc(S(=O)(=O)O)cc3)C1=O)C2(C)C,0,Benzylidene Camphor Sulfonic Acid,56039-58-8,NPT,NPT,NPT,,,train
+CC12CCC(C(=Cc3ccccc3)C1=O)C2(C)C,0,Benzylidene camphor,15087-24-8,NPT,,NPT,,,train
+CC12CCC3c4ccc(O)cc4CC(CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)C3C1CCC2O,0,Fulvestrant,129453-61-8,,,NPT,,,test
+CC1CN(C(=O)CC#N)C12CCN(c1ncnc3[nH]ccc13)C2,0,Delgocitinib,1263774-59-9,,NPT/NPS,NPT,,,train
+CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,1,Ofloxacin,82419-36-1,PT,PT,PT,PT,,train
+CC1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C21.Cl,1,Doxycycline hydrochloride,10592-13-9,PT,PT,PT,PT,PT,train
+CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O,0,Erythromycin,114-07-8,NPT,NPT,NPT,NPT,,train
+CCCCC(CC)COC(=O)C=Cc1ccc(OC)cc1,0,Octyl methoxycinnamate,5466-77-3,PT/NPT,NPT,NPT,NPT,NPT,train
+CCCCC(CC)COC(=O)c1ccccc1O,0,Octyl salicylate,118-60-5,NPT,NPT,NPT,NPT,NPT,test
+CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],0,Sodium lauryl sulfate (SDS),151-21-3,NPT,NPT,NPT,NPT,NPT,train
+CCCCCCCCCCCC[N+](C)(C)Cc1ccccc1.[Cl-],0,Benzalkonium chloride,139-07-1,,NPT,NPT,,NPT,test
+CCCCCN(C)CCC(O)(P(=O)([O-])O)P(=O)(O)O.[Na+],1,Ibandronate Sodium,138844-81-2,,NPS,PT,,,train
+CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1,1,Amiodarone,1951-25-3,PT,PT,PT,,PT,train
+CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1.Cl,1,Amiodarone hydrochloride,19774-82-4,PT,PT,PT,PT,,train
+CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,1,Vemurafenib,918504-65-1,,NPT,PT,,,train
+CCO,0,Ethanol,64-17-5,,NPT,NPT,,NPT,val
+CCOc1cc(C=O)ccc1O,1,Ethyl vanillin,121-32-4,(inconclusive),NPT,PT,,NPT,train
+CCOc1cc(C=O)ccc1OC(C)=O,1,4-Acetoxy-3-ethoxybenzaldehyde,72207-94-4,(inconclusive),,PT,,NPT,train
+CCOc1ccccc1C(=O)NCc1coc(-c2ccc(OC(F)F)c(OC(C)C)c2)n1,0,Difamilast,937782-05-3,,NPT/NPS,NPT,,,train
+CCS(=O)(=O)N1CC(CC#N)(n2cc(-c3ncnc4[nH]ccc34)cn2)C1,0,Baricitinib,1187594-09-7,,,NPT,,,train
+CCc1cc(C(C)=NOCc2ccc(C3CCCCC3)c(C(F)(F)F)c2)ccc1CN1CC(C(=O)O)C1,0,Siponimod,1230487-00-9,,,NPT,,,train
+CCc1cc(C(N)=O)ccc1-n1nc(C(C)C)c2c(-n3cnc(-c4cnn(C)c4)c3)ccnc21,0,Pimitespib,1260533-36-5,,,NPT,,,train
+CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21,1,Norfloxacin,70458-96-7,PT,PT,PT,PT,,train
+CCn1cc(C(=O)O)c(=O)c2ccc(C)nc21,1,Nalidixic acid,389-08-2,PT,PT,PT,PT,,train
+CCn1cc(C(=O)[O-])c(=O)c2ccc(C)nc21.[Na+],1,Nalidixic acid sodium salt,3374-05-8,PT,PT,PT,PT,,val
+CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12,1,Demeclocycline,127-33-3,PT,PT,PT,,,train
+CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12.Cl,1,Demeclocycline hydrochloride,64-73-3,PT,PT,PT,,NPT,train
+CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)cccc4C(C)(O)C3CC12.Cl,1,Tetracycline hydrochloride,64-75-5,PT,PT/NPT,PT,,PT/NPT,train
+CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,1,Chlorpromazine,50-53-3,PT,PT,PT,,PT,train
+CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21.Cl,1,Chlorpromazine hydrochloride,69-09-0,PT,PT,PT,PT,PT,val
+CN(CCOc1ccc(CC2SC(=O)NC2=O)cc1)c1ccccn1,1,Rosiglitazone,122320-73-4,,,PT,,,train
+CN1C(C(=O)Nc2ccccn2)=C(O)c2ccccc2S1(=O)=O,0,Piroxicam,36322-90-4,PT,PT,NPT,PT,,val
+CN1CCN(c2ccc(C(=O)Nc3n[nH]c4ccc(Cc5cc(F)cc(F)c5)cc34)c(NC3CCOCC3)c2)CC1,1,Entrectinib,1108743-60-7,,PT,PT,,,train
+CNC(=O)c1ccc(-c2cnc3ncc(Cc4ccc5ncccc5c4)n3n2)cc1F,1,Capmatinib,1029712-80-8,,PS,PT,,,train
+CNCC(=O)OCc1cccnc1N(C)C(=O)OC(C)[n+]1cnn(CC(O)(c2cc(F)ccc2F)C(C)c2nc(-c3ccc(C#N)cc3)cs2)c1.O=S(=O)([O-])O,0,Isavuconazonium sulfate,946075-13-4,,,NPT,,,train
+COC(=O)CCC1N=C(c2ccccn2)c2cc(Br)ccc2-n2c(C)cnc21.O=S(=O)(O)c1ccccc1,0,Remimazolam besilate,1001415-66-2,,,NPT,,,test
+COC(=O)NC(C)CNc1nccc(-c2cn(C(C)C)nc2-c2cc(Cl)cc(NS(C)(=O)=O)c2F)n1,1,Encorafenib,1269440-17-6,,,PT,,,val
+COC(=O)c1ccc(O)c(C)c1O,1,"Methyl 2,4-dihydroxy-3-methylbenzoate",33662-58-7,(inconclusive),NPT,PT,,PT,train
+COC(=O)c1ccc2c(C(=Nc3ccc(N(C)C(=O)CN4CCN(C)CC4)cc3)c3ccccc3)c(O)[nH]c2c1,1,Nintedanib,656247-17-5,,,PT,,,test
+COC(=O)c1ccccc1N=CCC(C)CC(C)(C)C,1,"Methyl-2-[(3,5,5-trimethylhexylidene)amino]benzoate",67801-42-7,NPT,,PT,,NPT,test
+COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,0,Sirolimus((-)-Rapamycin),53123-88-9,,NPS,NPT,,,train
+COc1c(C(C)(C)C)cc([N+](=O)[O-])c(C)c1[N+](=O)[O-],1,"4-tert-Butyl-3-methoxy-2,6-dinitrotoluene(Musk ambrette)",83-66-9,PT,NPT,PT,,NPT,train
+COc1c2ccoc2cc2oc(=O)ccc12,1,5-Methoxypsoralen(5-MOP or Bergapten),484-20-8,PT,PT,PT,,PT,train
+COc1c2occc2cc2ccc(=O)oc12,1,8-Methoxypsoralen(8-MOP or Methoxsalen),298-81-7,PT,PT,PT,PT,PT,train
+COc1cc(C(=O)c2cnc(-c3c[nH]c4ccccc34)[nH]2)cc(OC)c1OC,1,Sabizabulin,1332881-26-1,,,PT,,,val
+COc1cc(C(C)=O)ccc1O,1,4′-Hydroxy-3′-methoxyacetophenone(acetovanillone),498-02-2,(inconclusive),,PT,,NPT,train
+COc1cc(C(C)C)c(Oc2cnc(N)nc2N)cc1S(N)(=O)=O,0,Gefapixant,1015787-98-0,,,NPT,,,train
+COc1cc(C2OCC(C)O2)ccc1O,1,Vanillin propylene glycol acetal,68527-74-2,(inconclusive),,PT,,NPT,test
+COc1cc(C=O)ccc1O,1,Vanillin,121-33-5,,,PT,,NPT,val
+COc1cc(C=O)ccc1OC(=O)C(C)C,1,Vanillin isobutyrate,20665-85-4,(inconclusive),NPT,PT,,NPT,test
+COc1cc(O)c(C(=O)c2ccccc2)cc1S(=O)(=O)O,0,Sulisobenzone (Benzophenone-4),4065-45-6,NPT,NPT,NPT,NPT,NPT,train
+COc1ccc(C(=O)CC(=O)c2ccc(C(C)(C)C)cc2)cc1,1,Avobenzone,70356-09-1,PT/NPT,NPT,PT,PT,NPT,train
+COc1ccc(C(=O)c2ccccc2)c(O)c1,1,Benzophenone-3,131-57-7,PT,NPT,PT,,NPT,train
+COc1ccccc1C=CC=O,1,2-Methoxycinnamaldehyde,1504-74-1,(inconclusive),,PT,,NPT,test
+COc1nc2ccc(Br)cc2cc1C(c1ccccc1)C(O)(CCN(C)C)c1cccc2ccccc12.O=C(O)C=CC(=O)O,1,Bedaquiline fumarate,845533-86-0,,NPT/NPS,PT,,,train
+CS(C)=O,0,Dimethyl sulfoxide,67-68-5,,NPT,NPT,,NPT,train
+CSc1ccccc1O,1,2-(Methylthio)phenol(o-(Methylthio)-phenol),1073-29-6,,,PT,,,train
+Cc1c(Cl)c(C)[n+]([O-])c(Cl)c1-c1noc(-c2cc(O)c(O)c([N+](=O)[O-])c2)n1,0,Opicapone,923287-50-7,,NPS,NPT,,,train
+Cc1cc2nc3ccc(N(C)C)cc3nc2cc1N.Cl,1,Neutral red,553-24-2,PT,PT,PT,PT,PT,test
+Cc1ccc(-n2[nH]c(C)c(N=Nc3cccc(-c4cccc(C(=O)O)c4)c3O)c2=O)cc1C.NCCO.NCCO,1,Eltrombopag olamine,496775-62-3,NPT,NPT,PT,,,train
+Cc1ccc(C=C2C(=O)C3(C)CCC2C3(C)C)cc1,0,4-Methylbenzylidene camphor (3-(4-Methylbenzylidene)camphor),36861-47-9,PT/NPT,NPT,NPT,NPT,NPT,train
+Cc1ccc(Nc2nccc(N(C)c3ccc4c(C)n(C)nc4c3)n2)cc1S(N)(=O)=O,0,Pazopanib,444731-52-6,,,NPT,,,val
+Cc1ccc(O)c(-n2nc3ccccc3n2)c1,0,Drometrizole,2440-22-4,,,NPT,NPT,,train
+Cc1ccc2ccc(=O)oc2c1,1,7-Methylcoumarin,2445-83-2,,PT,PT,,PT,train
+Cc1ccc2oc(=O)ccc2c1,1,6-Methylcoumarin,92-48-8,PT,PT,PT,PT,NPT,train
+Cc1cccc2nccnc12,1,5-Methylquinoxaline,13708-12-8,(inconclusive),,PT,,PT,test
+Cc1ccccc1-c1cc(N2CC[N+](C)(COP(=O)(O)O)CC2)ncc1N(C)C(=O)C(C)(C)c1cc(C(F)(F)F)cc(C(F)(F)F)c1.Cl.[Cl-],1,Fosnetupitant Chloride Hydrochloride,1643757-72-5,,,PT,,,train
+Cc1cn2nc(-c3cc(=O)n4cc(N5CCNC6(CC6)C5)ccc4n3)cc(C)c2n1,0,Risdiplam,1825352-65-5,,,NPT,,,val
+Cc1nc(C(=O)NCC(=O)O)c(O)c2ccc(Oc3ccccc3)cc12,0,Roxadustat,808118-40-3,,,NPT,,,test
+Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,1,Dasatinib,302962-49-8,,NPT,PT,,,train
+Cl.Cl.N#Cc1cccc(C(NCC2CC2)c2ccc(F)c(NC(=O)c3cc(C(F)(F)F)nn3-c3cccc(CN)c3)c2)c1,0,Berotralstat Hydrochloride,1809010-52-3,,,NPT,,,train
+Cl.Cl.NC(=NCCCCCCN=C(N)N=C(N)Nc1ccc(Cl)cc1)N=C(N)Nc1ccc(Cl)cc1,0,Chlorhexidine dihydrochloride,3697-42-5,,NPT,NPT,,,train
+Cl.c1ccc2nc3ccccc3cc2c1,1,Acridine hydrochloride,17784-47-3,PT,PT,PT,PT,PT,train
+Cn1c(Cn2ccc(C(F)(F)F)c(Oc3cc(Cl)cc(C#N)c3)c2=O)n[nH]c1=O,0,Doravirine,1338225-97-0,,NPT,NPT,,,train
+Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21,0,Selumetinib,606143-52-6,,,NPT,,,test
+Cn1cnc2c(F)c(Nc3ccc(Br)cc3F)c(C(=O)NOCCO)cc21,1,Binimetinib,606143-89-9,,PT,PT,,,train
+N#CCNC(=O)c1ccc(-c2ccnc(Nc3ccc(N4CCOCC4)cc3)n2)cc1,0,Momelotinib,1056634-68-4,,,NPT,,,train
+NC(=O)C1CCC2CN1C(=O)N2OS(=O)(=O)[O-].[Na+],0,Avibactam Sodium,1192491-61-4,,,NPT,,,train
+NC(=O)NO,1,Ichthammol,8029-68-3,,PT,PT,,PT,train
+NC(=O)c1ncn(C2OC(CO)C(O)C2O)n1,1,Ribavirin,36791-04-5,,NPT,PT,,,train
+NC(Cc1cnc[nH]1)C(=O)O,0,L-Histidine,71-00-1,NPT,NPT,NPT,weak PR,NPT,train
+NC(N)=S,0,Thiocarbamide(Thiourea),62-56-6,PS,,NPT,,,train
+NCC(=O)CCC(=O)O,1,5-Aminolevulinic acid,106-60-5,,PT,PT,,PT,train
+Nc1ccc(C(=O)O)cc1,0,Para-aminobenzoic acid (PABA),150-13-0,PS (photopatch),,NPT,NPT,NPT,train
+O=C(NCc1c(F)cc(F)cc1F)c1cn2c(c([O-])c1=O)C(=O)N1C3CCC(C3)OC1C2.[Na+],1,Bictegravir sodium,1807988-02-8,,NPT,PT,,,val
+O=C(Nc1c(Cl)cncc1Cl)c1ccc(OC(F)F)c(OCC2CC2)c1,0,Roflumilast,162401-32-3,NPT,,NPT,,,train
+O=C(Nc1ccc(Cl)c(Cl)c1)c1cc(Cl)cc(Cl)c1O,1,"3,3′,4′,5-Tetrachlorosalicylanilide (TCSA)",1154-59-2,PT,PT,PT,,,train
+O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(N2CCC(O)C2)c(-c2ccn[nH]2)c1,1,Asciminib,1492952-76-7,,PT/PS,PT,,,train
+O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1.O=C(O)C=CC(=O)O,1,Filgotinib Maleate,1802998-75-9,,NPT,PT,,,train
+O=C(O)C=Cc1ccccc1,0,Cinnamic acid,140-10-3,,,NPT,Weak PT,,train
+O=C([O-])Cc1ccccc1Nc1c(Cl)cccc1Cl.[Na+],1,Diclofenac sodium,15307-79-6,PT,PT,PT,PT,,train
+O=C([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1-c1c2cc(I)c(=O)c(I)c-2oc2c(I)c([O-])c(I)cc12.[K+].[K+],1,Bengal rose (Rose bengale),11121-48-5,PT,PT,PT,,PT,val
+O=C([O-])c1c(Cl)c(Cl)c(Cl)c(Cl)c1-c1c2cc(I)c(=O)c(I)c-2oc2c(I)c([O-])c(I)cc12.[Na+].[Na+],1,Xantryl(Rose Bengal (sodium salt)(1:2)),632-69-9,PT,NPT,PT,PT,PT,val
+O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1,0,Aripiprazole,129722-12-9,,,NPT,,,train
+O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1,0,Phenytoin,57-41-0,,,NPT,Weak PT,,test
+O=CC=Cc1ccccc1,0,Cinnamaldehyde,104-55-2,PS,NPT,NPT,,NPT,train
+O=c1[nH]cc(F)c(=O)[nH]1,0,5-Fluorouracil,51-21-8,,,NPT,NPT,,val
+O=c1ccc2ccccc2o1,0,Coumarin,91-64-5,NPT,NPT,NPT,,,train
+Oc1c(Cl)cc(Cl)c(Cl)c1Cc1c(O)c(Cl)cc(Cl)c1Cl,0,Hexachlorophene,70-30-4,PT/NPT,NPT,NPT,PT,,train
+Oc1c(Cl)cc(Cl)cc1Sc1cc(Cl)cc(Cl)c1O,1,Bithionol,97-18-7,PT,PT,PT,PT,PT,train
+[Co+2].[O]=[Al][O-].[O]=[Al][O-],0,Cobalt aluminum oxide,13820-62-7,,,NPT,,NPT,val
+[Cr+3].[Cr+3].[O-2].[O-2].[O-2],0,Chromium oxide,11118-57-3,,,NPT,,NPT,train
+[S]=[Cd],1,Cadmium sulfide,1306-23-6,,,PT,,NPT,train
+[S]=[Hg],0,Mercury(II) sulfide,1344-48-5,,,NPT,,NPT,train
+[Se]=[Cd],0,Cadmium selenide,1306-24-7,,,NPT,,NPT,test
+c1ccc2c(c1)Nc1ccccc1S2,1,10H-Phenothiazine,92-84-2,,PT,PT,,PT,test
+c1ccc2c(c1)[nH]c1ccccc12,1,Carbazole,86-74-8,,,PT,,PT,train
+c1ccc2cc3ccccc3cc2c1,1,Anthracene,120-12-7,PT,PT,PT,PT,PT,train
+c1ccc2nc3ccccc3cc2c1,1,Acridine,260-94-6,PT,PT,PT,,PT,val
